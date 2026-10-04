@@ -1,0 +1,15 @@
+{
+  "rows": 284807,
+  "cpu_count": 2,
+  "load_time_s": 3.563,
+  "train_time_s": 10.741,
+  "best_iteration": 89,
+  "auc_roc": 0.9771,
+  "accuracy": 0.9995,
+  "f1_score": 0.8398,
+  "precision": 0.9157,
+  "recall": 0.7755,
+  "latency_1row_ms": 1.218,
+  "batch_1000rows_ms": 6.21,
+  "throughput_rows_per_s": 161024.3
+}
